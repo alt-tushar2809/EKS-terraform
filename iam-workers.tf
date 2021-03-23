@@ -38,8 +38,4 @@ resource "aws_iam_instance_profile" "demo-node" {
   role = aws_iam_role.demo-node.name
 }
 
-    © 2021 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Statu
+     
